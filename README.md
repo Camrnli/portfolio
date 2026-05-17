@@ -8,4 +8,4 @@ Welcome to my portfolio. Here you'll find my ongoing work in Power BI and Tablea
 ## Tableau Projects
 ### Revenue by Region
 
-(./powerquery)
+[Power Query Projects](./powerquery)
