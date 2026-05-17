@@ -13,6 +13,6 @@ Welcome to my portfolio. Here you'll find my ongoing work in Power BI and Tablea
 ## Tableau Projects
 
 
-## SQL Queries 
+## SQL
 [SQL Queries](./SQL)
 
