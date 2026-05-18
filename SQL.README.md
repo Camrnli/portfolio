@@ -1,3 +1,3 @@
-#SQL Queries
+SQL Queries
 
-##Case Study Queries
+Case Study Queries
