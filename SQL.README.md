@@ -1,6 +1,8 @@
 SQL Queries
 
 Case Study Queries
+
+
 -- To Identify if there are any unknowns in rows 
 		SELECT * 
 
