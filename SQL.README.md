@@ -1,6 +1,6 @@
 SQL Queries
 
-Case Study Queries
+Case Study Queries (Basic to Intermediate)
 
 
 -- To Identify if there are any unknowns in rows 
