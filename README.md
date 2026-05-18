@@ -14,5 +14,5 @@ Welcome to my portfolio. Here you'll find my ongoing work in Power BI and Tablea
 
 
 ## SQL
-[SQL Queries](./SQL)
+[SQL Queries](./SQL.README.md)
 
